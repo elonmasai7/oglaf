@@ -7,6 +7,7 @@
     tools:ignore="GoogleAppIndexingWarning">
 
   <uses-permission android:name="android.permission.INTERNET" />
+<uses-permission android:name"android.permission.LOCATION" />
 
   <meta-data
       android:name="android.webkit.WebView.MetricsOptOut"
